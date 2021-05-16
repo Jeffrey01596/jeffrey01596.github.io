@@ -1,0 +1,10 @@
+{
+    "title": "Test1 project header",
+    "sections": [
+        {
+            "title": "Test1 title",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "mockup": "images/placeholder.svg"
+        }
+    ]
+}
