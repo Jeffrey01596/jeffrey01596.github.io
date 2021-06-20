@@ -5,6 +5,21 @@
             "title": "Test1 title",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
             "mockup": "images/placeholder.svg"
+        },
+        {
+            "title": "Test1 title",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "mockup": "images/placeholder.svg"
+        },
+        {
+            "title": "Test no desc and mockup",
+            "description": "",
+            "mockup": ""
+        },
+        {
+            "title": "Test no desc",
+            "description": "",
+            "mockup": "images/placeholder.svg"
         }
     ]
 }
