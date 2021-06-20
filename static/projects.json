@@ -1,44 +1,16 @@
 {
     "android": [
         {
-            "overline": "Android test 1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test"
-        },
-        {
-            "overline": "Android test 2",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test1"
+            "overline": "Lumin",
+            "text": "Lumin is wallpaper app based on vector graphic render",
+            "url": "images/lumin/preview.png",
+            "project": "lumin"
         }
     ],
     "design": [
-        {
-            "overline": "Design test 1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test"
-        },
-        {
-            "overline": "Design test 1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test"
-        }
+        
     ],
     "web": [
-        {
-            "overline": "Web test 1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test"
-        },
-        {
-            "overline": "Web test 1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-            "url": "images/placeholder.svg",
-            "project": "test"
-        }
+        
     ]
 }
